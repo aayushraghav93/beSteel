@@ -1,7 +1,6 @@
 # 💪 **beSteel-App**
 
-Welcome to **beSteel-App**, a full-stack fitness tracking application designed to empower users on their fitness journey. From intuitive dashboards to detailed activity logs, the app offers everything you need to stay on track and reach your goals.
-
+Welcome to **beSteel-App**, a full-stack fitness tracker that empowers users to set, track, and achieve their health goals with real-time insights, interactive dashboards, and seamless activity logging—all in one intuitive platform."
 ---
 
 ## 🚀 **Features**
@@ -57,16 +56,11 @@ Welcome to **beSteel-App**, a full-stack fitness tracking application designed t
 
 ## 📌 **Tech Stack**
 - **Frontend:** Angular + TypeScript
-- **Backend:** Node.js + Express (or any backend you're using)
-- **Database:** MongoDB / Firebase / SQL (as applicable)
-- **Charts:** ngx-charts / Chart.js (whichever you’re using)
+- **Backend:** SpringBoot,MVC,JPA,Lombok
+- **Database:** MYSQL
+- **Charts:**  Chart.js 
 
 ---
 
-## 📞 **Contributing & Support**
-If you'd like to contribute, open a pull request or raise an issue.  
-For any questions or feedback, feel free to reach out!
-
----
 
 **Stay Strong. Be Consistent. #beSteel 💥**
